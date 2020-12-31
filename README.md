@@ -31,7 +31,7 @@ from `dsmbootcamp.sample.array_struct_car`;
 select *, array(select as struct m.id, (m.year + 1) as year, country from unnest(manufacture) as m) as manufacture_modified  
 from `dsmbootcamp.sample.array_struct_car`;
 ```
-Collapse
+
 
 
 
