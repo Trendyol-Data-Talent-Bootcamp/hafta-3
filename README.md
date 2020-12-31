@@ -2,7 +2,9 @@
 
 ## Ödevi almak için lütfen linke tıklayın.
 
-link:
+link: https://classroom.github.com/a/FmdVa8il
+
+### Soru 1
 
 `dsmbootcamp.sample.semi_structured_hw` tablosunda 2 kişinin sahip olduğu araç bilgileri ve bu araçları satın alma tarihleri yer almaktadır.
 Tablodaki kolonların açıklamaları aşağıdaki gibidir.
