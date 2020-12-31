@@ -13,6 +13,7 @@ Tablodaki kolonların açıklamaları aşağıdaki gibidir.
 - car<Repeated Record>: Araç id'si ve model bilgilerini içermektedir.
 - manufacture<Repeated Record>: Araç id'si, üretim yılı ve üretildiği ülke bilgilerini içermektedir.
 - purchase<Repeated Record>: Araç id'si ve satın alma tarihlerini içermektedir. 
+
 ​
 Beklenen `dsmbootcamp.sample.semi_structured_hw` tablosunu kullanarak `dsmbootcamp.sample.semi_structured_hw_expected` tablosundaki 
 veriyi oluşturmaktır. 
