@@ -17,6 +17,7 @@ Tablodaki kolonların açıklamaları aşağıdaki gibidir.
 ​
 Beklenen `dsmbootcamp.sample.semi_structured_hw` tablosunu kullanarak `dsmbootcamp.sample.semi_structured_hw_expected` tablosundaki 
 veriyi oluşturmaktır. 
+
 ​
 `semi_structured_hw_expected` tablosundaki veriyi oluşturmak için yapılması gerekenler:
 - name kolonunu seçmek
